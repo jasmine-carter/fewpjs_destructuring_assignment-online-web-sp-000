@@ -16,7 +16,6 @@ const muppet = {
   partner: 'Miss Piggy'
 };
 
-const kermit = muppet
 const k_muppet = {
   k_name: 'Kermit',
   k_color: 'green',
@@ -31,6 +30,7 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
+const kermit = muppet
 const { song_2, song_4} = k_muppet.k_album.the_muppet_movie
 // Strings
 
